@@ -7,6 +7,7 @@ Software Engineer | Java Backend | AI/LLM | Docker | DSA
 <p align="center">
 Building scalable backend systems and AI-powered applications.
 </p>
+
 ---
 
 ## 🚀 About Me
@@ -114,8 +115,6 @@ Tech: React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
 300+ Problems Solved
 
 
-🏆 LeetCode
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -139,7 +138,7 @@ Tech: React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/usha666123?theme=dark&font=baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/seesa_usha_sree?theme=dark&font=baloo&ext=heatmap" />
 
 </p>
 📈 GitHub Activity
