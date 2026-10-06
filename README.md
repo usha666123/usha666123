@@ -153,38 +153,6 @@ I regularly practice:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=usha666123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usha666123&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=usha666123&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usha666123&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - 🎯 Master Spring Boot
