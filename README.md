@@ -26,94 +26,132 @@ Building scalable backend systems and AI-powered applications.
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,python,html,css" />
+</p>
 
-<br/>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,github,postman" />
+</p>
 
-<br/>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,vscode,idea" />
-
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-```text
-Java / Spring Boot
-        ↓
-REST APIs & Backend Architecture
-        ↓
-Docker & Linux
-        ↓
-Container Security
-        ↓
-AI / LLM Applications
-        ↓
-RAG → MCP → Agentic AI
+<p align="center">
 
-🚀 Featured Projects
-🤖 AstraOS — AI Operating System Assistant
+<b>Java / Spring Boot</b>
+↓
+<b>REST APIs & Backend Architecture</b>
+↓
+<b>Docker & Linux</b>
+↓
+<b>Container Security</b>
+↓
+<b>AI / LLM Applications</b>
+↓
+<b>RAG → MCP → Agentic AI</b>
 
-An AI-powered desktop assistant designed to interact with the operating
-system, applications, files and documents using natural language.
+</p>
 
-Features
-🗂️ File and folder management
-🔎 Intelligent document search
-📄 Document summarization
-🌐 Browser automation
-💻 Code assistance
-🖥️ Application control
-📊 System monitoring
-🤖 LLM-powered interactions
-🔐 Confirmation-based safety for sensitive operations
+---
 
-Tech: React.js • Electron.js • Java • Spring Boot • PostgreSQL •
-RAG • LLM • MCP • Docker
+## 🚀 Featured Projects
 
-🔐 Secure Process Sandbox
+### 🤖 AstraOS — AI Operating System Assistant
 
-A security-focused containerized execution environment for running
-untrusted programs with isolation and resource restrictions.
+AI-powered desktop assistant designed to interact with the operating system, applications, files and documents using natural language.
 
-Features
-🐳 Docker-based isolation
-🔒 Linux namespaces
-⚙️ cgroups resource limits
-🛡️ Seccomp syscall filtering
-🔑 Linux capability restrictions
-👤 Non-root execution
-🌐 Network isolation
-⏱️ Execution timeouts
-📊 Resource monitoring
-📝 Audit logging
+**Features**
 
-Tech: Java 21 • Spring Boot • Docker • Linux • REST APIs
+- 🗂️ File and folder management
+- 🔎 Intelligent document search
+- 📄 Document summarization
+- 🌐 Browser automation
+- 💻 Code assistance
+- 🖥️ Application control
+- 📊 System monitoring
+- 🤖 LLM-powered interactions
+- 🔐 Confirmation-based safety for sensitive operations
 
-💰 FinSight
+**Tech:** React.js • Electron.js • Java • Spring Boot • PostgreSQL • RAG • LLM • MCP • Docker
 
-AI-powered personal finance platform for managing expenses and gaining
-financial insights.
+---
 
-Features
-💳 Expense tracking
-👥 Expense splitting
-🔐 JWT authentication
-📸 Receipt OCR
-🤖 AI-based expense categorization
-📊 Financial analytics
-🔔 Reminders
+### 🔐 Secure Process Sandbox
 
-Tech: React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
+Security-focused containerized execution environment for running untrusted programs with isolation and resource restrictions.
 
-🧩 Data Structures & Algorithms
-300+ Problems Solved
+**Features**
 
+- 🐳 Docker-based isolation
+- 🔒 Linux namespaces
+- ⚙️ cgroups resource limits
+- 🛡️ Seccomp syscall filtering
+- 🔑 Linux capability restrictions
+- 👤 Non-root execution
+- 🌐 Network isolation
+- ⏱️ Execution timeouts
+- 📊 Resource monitoring
+- 📝 Audit logging
+
+**Tech:** Java 21 • Spring Boot • Docker • Linux • REST APIs
+
+---
+
+### 💰 FinSight
+
+AI-powered personal finance platform for managing expenses and gaining financial insights.
+
+**Features**
+
+- 💳 Expense tracking
+- 👥 Expense splitting
+- 🔐 JWT authentication
+- 📸 Receipt OCR
+- 🤖 AI-based expense categorization
+- 📊 Financial analytics
+- 🔔 Reminders
+
+**Tech:** React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+### 🧠 300+ Problems Solved
+
+I regularly practice:
+
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+
+---
+
+## 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/seesa_usha_sree?theme=dark&font=baloo&ext=heatmap" />
+
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -124,8 +162,19 @@ Tech: React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usha666123&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=usha666123&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=usha666123&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -134,28 +183,47 @@ Tech: React • Node.js • PostgreSQL • OCR • Gemini/OpenAI
 
 </p>
 
-## 🧩 LeetCode
+---
+
+## 🎯 2026 Goals
+
+- 🎯 Master Spring Boot
+- 🏗️ Build production-level backend systems
+- 🧠 Strengthen System Design
+- 🐳 Master Docker & container security
+- 🤖 Build AI/LLM applications
+- 🔎 Learn RAG & MCP deeply
+- 🧩 Explore Agentic AI
+- 💻 Solve more DSA problems
+- 🌐 Contribute to Open Source
+- 🚀 Build production-ready projects
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/seesa_usha_sree?theme=dark&font=baloo&ext=heatmap" />
+<a href="https://www.linkedin.com/in/usha-sree-seesa-8b1532330">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seesaushasree060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/seesa_usha_sree">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=usha666123&theme=tokyo-night&hide_border=true" /> </p>
-🎯 2026 Goals
- Master Spring Boot
- Build production-level backend systems
- Strengthen System Design
- Master Docker & container security
- Build AI/LLM applications
- Learn RAG & MCP deeply
- Explore Agentic AI
- Solve more DSA problems
- Contribute to Open Source
- Build production-ready projects
-🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/usha-sree-seesa-8b1532330"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:seesaushasree060@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/seesa_usha_sree"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
+
+---
+
 <p align="center">
 ⭐ Thanks for visiting my profile!
-<img src="https://komarev.com/ghpvc/?username=usha666123&label=Profile%20Views&color=blueviolet&style=for-the-badge"/> </p> ```
+</p>
+
+<!-- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=usha666123&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p> -->
